@@ -24,7 +24,7 @@ BLOCKCHAIN
 | User Stories (Use Cases) | 
 | Prototypes | ... |
 | Token Specification | ... |
-|SmartContract|Etherscan Link!!!|
+|SmartContract|https://ropsten.etherscan.io/address/0x6b281c877205a04a9a31551a37757c34501940c5|
 
 
 ### xxxxxx / xxxxxxxx
