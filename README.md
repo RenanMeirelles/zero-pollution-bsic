@@ -25,22 +25,20 @@ PERSONAS
 ## Personas
 | Roles | Description |
 | ------ | ------ |
-| Citizens | people who wants to make the difference. Just connect with Eth Wallet and start the work |
-| Checkpoints | Entities that are able to contribute to the revolution - entepreneurs, establishments, street points. . . |
-| Volunteers | CONFIRM if there will be a role to help the ecosystem - logistics, and other stuff|
-| Endpoints | the final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, other. . . |
+| **Citizens** | people who wants to make the difference. Just connect with Eth Wallet and start the work |
+| **Checkpoints** | Entities that are able to contribute to the revolution - entepreneurs, establishments, street points. . . |
+| **Volunteers** | CONFIRM if there will be a role to help the ecosystem - logistics, and other stuff|
+| **Endpoints** | the final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, other. . . |
 
-```sh
-BUSINESS DIAGRAMS
-```
 
-```sh
-USER STORIES
-```
+## BUSINESS PROCESSES
 
-```sh
-PROTOTYPES
-```
+
+## USER STORIES
+
+
+## PROTOTYPES
+
 
 ## Product Deliverables
 | Deliverables | Link |
