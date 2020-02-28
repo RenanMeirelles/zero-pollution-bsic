@@ -2,15 +2,18 @@
 
 Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution challenge
 
-### Powered by:
+**Powered by:**
 [![BSIC](https://secure.meetupstatic.com/photos/event/8/d/b/f/600_488376287.jpeg)](https://blockchainforsocialimpact.com/)
 
-# Welcome to the **Z**er**o** **Po**llution Challenge
+# Welcome to the **Z**er**o** **Po**llution Ecosystem. You can call it ZOPO.
 
-**If you want to follow the project development, please click** [**here**](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)!
+**If you want to follow the project development, please click** [here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)!
+
+**If you want to read the full Whitepaper, click ** [here]LINK WHITEPAPER
+
+**If you want to read see our Landing Page, click ** [here]LINK LANDING PAGE
 [![LandingPage](INSERT_LOGO_PATH)](https://INSERT_ADDRESS/)
-![The Project](https://)
-**If you want to read the full Whitepaper, click ** [**here**]**LINK WHITEPAPER**
+
 
 **Our team is composed by TEAM PRESENTATION**
 
