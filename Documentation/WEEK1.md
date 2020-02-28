@@ -7,7 +7,7 @@
 | Name | Gitcoin ID |e-mail| Skills |
 | ------ | ------ | ------ | ------ |
 |Renan Girotto Meirelles | [@renanmeirelles](https://gitcoin.co/renanmeirelles) | meirelles.biz@gmail.com| Business Analysis |
-|Paulo Gabriel Vieira de Sousa | [Paulo](https://github.com/PauloVieiraSousa)| paulogabrielvieira@gmail.com | FullStack |
+|Paulo Gabriel Vieira de Sousa | [@paulovieirasousa](https://gitcoin.co/paulovieirasousa)| paulogabrielvieira@gmail.com | FullStack |
 
 Paul??? - @molecula451
 Nestor Bonilla???
