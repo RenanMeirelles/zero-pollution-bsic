@@ -2,12 +2,12 @@
 # Challenge:  Plastics and Pollution
 
 ## Team: 
-Renan Girotto Meirelles - [@renanmeirelles](https://gitcoin.co/renanmeirelles) - meirelles.biz@gmail.com
+| Name | Gitcoin ID |e-mail| Skills |
+| ------ | ------ | ------ | ------ |
+|Renan Girotto Meirelles | [@renanmeirelles](https://gitcoin.co/renanmeirelles) | meirelles.biz@gmail.com| Business Analysis |
+|Paulo Gabriel Vieira de Sousa | [Paulo](https://github.com/PauloVieiraSousa)| paulogabrielvieira@gmail.com | FullStack |
 
-Paulo Gabriel Vieira de Sousa - [Paulo](https://github.com/PauloVieiraSousa) - paulogabrielvieira@gmail.com
-
-Paul? - @molecula451
-
+Paul??? - @molecula451
 Nestor Bonilla???
 
 ## Specific Problem:
