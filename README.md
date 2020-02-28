@@ -6,7 +6,8 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 
 [![BSIC](https://secure.meetupstatic.com/photos/event/8/d/b/f/600_488376287.jpeg)](https://blockchainforsocialimpact.com/)
 
-# Welcome to the **Z**er**o** **Po**llution Ecosystem. You can call it ZOPO.
+# Welcome to the **Z**er**⬡** **P⬡**llution Ecosystem.
+**Just call it Z⬡P⬡.**
 
 **If you want to follow the project development, please click** [here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)!
 
@@ -35,7 +36,7 @@ Our idea is to propose a complete ecosystem, where Citizens of any social class 
 
 
 ## BUSINESS PROCESSES
-This is the Macro View of the Ecosystem. 
+This is the Macro View of the **Z⬡P⬡** Ecosystem. 
 [![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)]
 
 If you want to see the full Business Process Diagrams (BPMN) and navigate through, you can check it [**here**](https://PROCESS_LINK)!
@@ -61,22 +62,6 @@ LINK THE PROTOTYPES, SUCH AS FIGMA OR SCREENSHOTS.
 | ------ | ------ |
 | Research . . .  | . . . |
 | Video . . .  | . . . |
-
-
-
-
-### xxxxxx / xxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxx:
-- **xxxxx**: 
-         - 
-         - **
-
-| Plugin | Link |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-
 
 
 
