@@ -1,15 +1,15 @@
 ## Team: 
-Renan Girotto Meirelles - [@renanmeirelles](https://gitcoin.co/renanmeirelles)! - meirelles.biz@gmail.com
+Renan Girotto Meirelles - [@renanmeirelles](https://gitcoin.co/renanmeirelles) - meirelles.biz@gmail.com
 
-Paulo Gabriel Vieira de Sousa - [Paulo](https://github.com/PauloVieiraSousa)! - paulogabrielvieira@gmail.com
+Paulo Gabriel Vieira de Sousa - [Paulo](https://github.com/PauloVieiraSousa) - paulogabrielvieira@gmail.com
 
 Paul? - @molecula451
 
 Nestor Bonilla???
 
-## Challenge:  Plastics and Pollution
+# Challenge:  Plastics and Pollution
 
-# Specific Problem:
+## Specific Problem:
   - **Why is blockchain needed to solve this problem?**
   
   Write the text with the Mentor - Talk about getting rid of government, about rewards using a specific Token, the traceability of the addresses of the trash, etc.
