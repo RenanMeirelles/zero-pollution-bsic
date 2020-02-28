@@ -1,7 +1,9 @@
 
+# 02/18 - 02/24 Defining Assumptions
+
 # Challenge:  Plastics and Pollution
 
-## Team: 
+## Team: Zero Pollution (zOpO)
 | Name | Gitcoin ID |e-mail| Skills |
 | ------ | ------ | ------ | ------ |
 |Renan Girotto Meirelles | [@renanmeirelles](https://gitcoin.co/renanmeirelles) | meirelles.biz@gmail.com| Business Analysis |
