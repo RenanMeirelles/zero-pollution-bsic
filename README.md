@@ -40,7 +40,7 @@ Our idea is to propose a complete ecosystem, where Citizens of any social class 
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
 ![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)
 
-If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**here**](https://PROCESS_LINK)!
+If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)!
 
 ## USER STORIES
 LINK EVERY USER STORY PUBLISHED ON GIT - LATER
@@ -51,7 +51,7 @@ LINK THE PROTOTYPES, SUCH AS FIGMA OR SCREENSHOTS.
 ## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
-| Business Process (BPMN) | https:// publish html on github |
+| Business Process (BPMN) | (https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) |
 | User Stories (Use Cases) | 
 | Prototypes | ... |
 | Token Specification | ... |
