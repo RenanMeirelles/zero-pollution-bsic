@@ -10,7 +10,9 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 ## Just call it Z⬡P⬡.
 
 If you want to follow the project development, please click **[here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)**!
+
 If you want to see our Landing Page, click **[here](https://LINK LANDING PAGE)**!
+
 If you want to read the full Whitepaper, click **[here](https://LINK WHITEPAPER)**!
 
 
@@ -28,10 +30,10 @@ Our idea is to propose a complete ecosystem, where Citizens of any social class 
 ## Personas
 | Roles | Description |
 | ------ | ------ |
-| **Citizens** | people who wants to make the difference. Just connect with Eth Wallet and start the work |
-| **Checkpoints** | Entities that are able to contribute to the revolution - entepreneurs, establishments, street points. . . |
-| **Volunteers** | CONFIRM if there will be a role to help the ecosystem - logistics, and other stuff|
-| **Endpoints** | the final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, other. . . |
+| **Citizens** | Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
+| **Checkpoints** | Entities that make the focal point of the ecosystem, contributing to its functioning - entepreneurs, establishments, street points and others. This role will be rewarded too.|
+| **Volunteers** | CONFIRM if there will be a role to help the ecosystem - logistics, wheighing the garbage, and ohter activities.
+| **Endpoints** | The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
 
 
 ## BUSINESS PROCESSES
