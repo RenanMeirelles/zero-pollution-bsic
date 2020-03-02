@@ -24,7 +24,7 @@ If you want to read the full Whitepaper, click **[here](https://LINK WHITEPAPER)
 |Paulo Gabriel Vieira de Sousa | [@paulovieirasousa](https://gitcoin.co/paulovieirasousa)| paulogabrielvieira@gmail.com | FullStack - SmartContracts and Front-end |
 
 **Value Proposition**
-Our idea is to propose a complete ecosystem, where Citizens of any social class can play important roles in engaging against excessive plastic pollution in the environment, using the Ethereum blockchain as a support. A complete cycle will be created, where citizens will be able to collect and take the garbage to authorized points (Checkpoints) - the plastic bags will be sent to recycling companies, which will generate new bags and other possible destinations. Best of all, everyone will be rewarded with ERC20 Tokens that can be used in partner establishments. After all, people are driven by rewards.
+Our idea is to propose a complete ecosystem, where Citizens of any social class can play important roles in engaging against excessive plastic pollution in the environment, using the dApp and Ethereum blockchain as a support. A complete cycle will be created, where citizens will be able to collect and take the garbage to authorized points (Checkpoints) - the plastic bags will be sent to Endpoints, which will generate new bags and other possible destinations. Best of all, everyone will be rewarded with ERC20 Tokens that can be used in partner establishments. After all, people are driven by rewards. And more: the plastic cycle can be fully tracked!
 
 
 ## Personas
