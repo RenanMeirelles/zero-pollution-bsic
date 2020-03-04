@@ -80,16 +80,12 @@ Brief description.
 | **MVP** | Connect with MetaMask, Register as a Citizen, Register as a Checkpoint, Find Checkpoints, Check-out ZOPO Bag, Check-in ZOPO Bag, Wheigh Collected Plastic, Mint ZOPO Tokens |
 | **MMP**| Register as an Endpoint, Register as a Volunteer, Use ZOPO Tokens, Ecosystem Analytics |
 
-
-## PROTOTYPES - CHECK IF IS NEEDED HERE!!!
-LINK THE PROTOTYPES, SUCH AS FIGMA OR SCREENSHOTS.
-
 ## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Business Process (BPMN) | [BUSINESS PROCESS DIAGRAMS (BPMN2.0)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) |
 | User Stories (Use Cases) | [ALL THE USER STORIES ARE AVAILABLE HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification))
-| Prototypes | ... |
+| Wireframes | [ZOPO DAPP WIREFRAMES - FIGMA](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=1%3A5&scaling=min-zoom) |
 | Token Specification and Code | https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token |
 |Token SmartContract|INCLUDE NEW TOKEN|
 |SmartContracts|INCLUDE NEW TOKEN|
