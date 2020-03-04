@@ -90,7 +90,7 @@ LINK THE PROTOTYPES, SUCH AS FIGMA OR SCREENSHOTS.
 | Business Process (BPMN) | [BUSINESS PROCESS DIAGRAMS (BPMN2.0)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) |
 | User Stories (Use Cases) | [ALL THE USER STORIES ARE AVAILABLE HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification))
 | Prototypes | ... |
-| Token Specification | ... |
+| Token Specification and Code | https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token |
 |Token SmartContract|INCLUDE NEW TOKEN|
 |SmartContracts|INCLUDE NEW TOKEN|
 | Project Management| https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution |
