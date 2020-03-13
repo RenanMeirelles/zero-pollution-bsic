@@ -7,13 +7,14 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 [![BSIC](https://secure.meetupstatic.com/photos/event/8/d/b/f/600_488376287.jpeg)](https://blockchainforsocialimpact.com/)
 
 # Welcome to the **Z**er**⬡** **P⬡**llution Ecosystem.
-## Just call it Z⬡P⬡.
 
+## Just call it Z⬡P⬡.
+![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=4vaa9zBh2AMAX-1Ehlv&_nc_ht=scontent.fvcp2-1.fna&oh=7eb732c87cc6e4a0264fd68987dfc330&oe=5E923F2A)
 If you want to follow the project progress, please click **[here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)**!
 
 If you want to see our Landing Page, click **[here](https://LINK LANDING PAGE)**!
 
-If you want to read the full Whitepaper, click **[here](https://LINK WHITEPAPER)**!
+If you want to read the full Whitepaper, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
 
 
 
@@ -80,13 +81,17 @@ Brief description.
 | **MVP** | Connect with MetaMask, Register as a Citizen, Register as a Checkpoint, Find Checkpoints, Check-out ZOPO Bag, Check-in ZOPO Bag, Wheigh Collected Plastic, Mint ZOPO Tokens |
 | **MMP**| Register as an Endpoint, Register as a Volunteer, Use ZOPO Tokens, Ecosystem Analytics |
 
+
+## PROTOTYPES - CHECK IF IS NEEDED HERE!!!
+LINK THE PROTOTYPES, SUCH AS FIGMA OR SCREENSHOTS.
+
 ## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Business Process (BPMN) | [BUSINESS PROCESS DIAGRAMS (BPMN2.0)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) |
 | User Stories (Use Cases) | [ALL THE USER STORIES ARE AVAILABLE HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification))
-| Wireframes | [ZOPO DAPP WIREFRAMES - FIGMA](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=1%3A5&scaling=min-zoom) |
-| Token Specification and Code | https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token |
+| Prototypes | ... |
+| Token Specification | ... |
 |Token SmartContract|INCLUDE NEW TOKEN|
 |SmartContracts|INCLUDE NEW TOKEN|
 | Project Management| https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution |
