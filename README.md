@@ -54,32 +54,26 @@ If you want to see the full **Business Process Diagrams (BPMN)** and navigate th
 
 ## DETAILED USE CASES
 - [**Connect with MetaMask**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/01.%20Connect%20With%20MetaMask.md)
-
 This will be the user's first contact with the ecosystem. This first version of the Ecosystem, user can connect with an existing Ethereum Account. In the future we can create our own wallet generator and use other providers - or even DID Providers (Civic, uPort...)
 
 - [**Register as a Citizen**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/02.%20Register%20as%20a%20Citizen.md)
-
 Allows the new user to be registered as a Citizen. It is not necessary to fill in mandatory fields, but user may have the option to fill in Name and ID. Citizen can skip and register only with his address.
 
 - [**Register as a Checkpoint**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/03.%20Register%20as%20a%20Checkpoint.md)
-
 Allows the new user to register as a Checkpoint. User must fill in some mandatory information, for example Name and Location (to be found on the map).
 
 - [**Find Checkpoints**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/04.%20Find%20Checkpoints.md)
-
-When a citizen is willing to collect plastic garbage, they can look for nearest **Checkpoints**, where they can check out and check in a ZOPO bag.
+Allows the citizen to locate the checkpoints closest to a reference point (location or as defined). That way, Citizen can go to the location to start the Checkout process.
 
 - [**Check-out ZOPO Bag**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/05.%20Check-out%20ZOPO%20Bag.md)
-
-After the citizen goes to a Checkpoint, he/she can check out a ZOPO bag and start collecting plastic waste. Citizen must scan the ZOPO Bag QR Code and confirm the association of his Ethereum Address X ZOPO Bag Address.
+After the Citizen goes to a Checkpoint, he/she can check out a ZOPO bag and start collecting plastic waste. Citizen must scan the ZOPO Bag QR Code and confirm the association of his **Citizen Address** x **ZOPO Bag Address**.
 
 - [**Check-in ZOPO Bag**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/06.%20Check-in%20ZOPO%20Bag.md)
-
-After collecting the plastic garbage, the citizen can return to Checkpoint (or go to another one?) to checkin the bag with the plastic content. Once Checkin is done, the weighing process will begin.
+After collecting the plastic garbage, the Citizen can return to Checkpoint (or go to another one?) to checkin the bag with the plastic content. Once Checkin is done, the weighing process will begin.
 
 - [**Wheigh Collected Plastic**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/07.%20Wheigh%20Collected%20Plastic)
+When the Checkin is confirmed, the citizen must proceed with the weighing of the collected plastic. To do this, the checkpoint should scan the bag's QR Code, check the contents placed and weigh the scale.
 
-Brief description.
 - [**Mint ZOPO Tokens**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/08.%20Mint%20ZOPO%20Tokens)
 Brief description.
 - **Register as an Endpoint**
@@ -92,8 +86,8 @@ Brief description.
 ## ROADMAP
 | Product | Features |
 | ------ | ------ |
-| **MVP** | Connect with MetaMask, Register as a Citizen, Register as a Checkpoint, Find Checkpoints, Check-out ZOPO Bag, Check-in ZOPO Bag, Wheigh Collected Plastic, Mint ZOPO Tokens |
-| **MMP**| Register as an Endpoint, Register as a Volunteer, Use ZOPO Tokens, Ecosystem Analytics |
+| **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
+| **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
 
 
 ## PROTOTYPES - CHECK IF IS NEEDED HERE!!!
