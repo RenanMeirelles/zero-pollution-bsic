@@ -10,6 +10,7 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 
 ## Just call it Z⬡P⬡.
 ![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=4vaa9zBh2AMAX-1Ehlv&_nc_ht=scontent.fvcp2-1.fna&oh=7eb732c87cc6e4a0264fd68987dfc330&oe=5E923F2A)
+
 If you want to follow the project progress, please click **[here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)**!
 
 If you want to see our Landing Page, click **[here](https://LINK LANDING PAGE)**!
