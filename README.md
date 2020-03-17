@@ -99,6 +99,7 @@ Brief description.
 |Token SmartContract|INCLUDE NEW TOKEN|
 |SmartContracts|INCLUDE NEW TOKEN|
 | Project Management| https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution |
+| Landing Page| [PUBLISHED IN ANOTHER REPO TO NAVIGATE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
 
 ## Potential Deliverables
 | Deliverables | Link |
