@@ -92,13 +92,13 @@ Brief description.
 ## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
+| Project Management| [TRELLO BOARD - MANAGEMENT](https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution) |
 | Business Process (BPMN) | [BUSINESS PROCESS DIAGRAMS (BPMN2.0)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list) |
 | User Stories (Use Cases) | [ALL THE USER STORIES ARE AVAILABLE HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification))
-| Prototypes | ... |
+| Prototypes |[FIGMA NAVIGABLE PROTOTYPE](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom)|
 | Token Specification | ... |
 |Token SmartContract|INCLUDE NEW TOKEN|
 |SmartContracts|INCLUDE NEW TOKEN|
-| Project Management| https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution |
 | Landing Page| [PUBLISHED IN ANOTHER REPO TO NAVIGATE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
 
 ## Potential Deliverables
