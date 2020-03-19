@@ -1,0 +1,14 @@
+{
+  "name": "zopocoin",
+  "version": "0.0.1",
+  "description": "Zopo",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Gabriel",
+  "license": "ISC"
+}
