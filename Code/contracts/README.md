@@ -19,11 +19,17 @@
           - Segment
           - Stake - optional
     
-## generateBagHash
+### generateScaleHash - FUTURE FEATURE
+      User Story - ????
+      Gera um Address para uma Balança que será usada para pesagem
+      Permite que esse Address seja Minter no Token
+      Associa o Address da Balança a um Address de Checkpoint
+      
+### generateBagHash
       User Story - Request ZOPO Bags (Checkpoints)
       Gera uma lista de Hashes com um QR Code para cada Bag
       Grava essas hashes numa lista de bags do Contrato (geral)*
-      Associa essas Hashes a um Address de um Checkpoint (distribuidor)
+      Associa essas Hashes a um Address de um Checkpoint (distribuidor)     
       
 ### checkoutBag
       User Story - Checkout ZOPO Bag
