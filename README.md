@@ -125,13 +125,13 @@ Throughout the creation of the solution we came to know some projects very simil
 [**Plastic Bank**](https://plasticbank.com/)
 
 **Pros and Cons**
-    - Recognized as one of the most important solutions to stop ocean plastic; ✔ 
-    - Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
-    - Running since 2013; ✔
-    - Structured plastic destinations: product partners, recycled products and more; ✔
-    - Collected Plastic exchange - cash, tokens, goods and services...✔ 
-    - A little bureaucratic process to become a Volunteer; ✘
-    - Focused on ocean plastic collecting; ✘
+- Recognized as one of the most important solutions to stop ocean plastic; ✔ 
+- Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
+- Running since 2013; ✔
+- Structured plastic destinations: product partners, recycled products and more; ✔
+- Collected Plastic exchange - cash, tokens, goods and services...✔ 
+- A little bureaucratic process to become a Volunteer; ✘
+- Focused on ocean plastic collecting; ✘
 
 [**4ocean**](https://4ocean.com)
     Another potential partner and similar project is the 4ocean, focused on ocean plastic cleaning too. They act like the Bounty for Basura, doing some task forces to clean up the shores. They have already cleaned about 8,506,541 lbs of plastic!
