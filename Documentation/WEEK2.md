@@ -4,10 +4,11 @@
 ### Who are your constituents/clients/users? (Create User Persona(s))
 | Roles | Description |
 | ------ | ------ |
-| Citizens | people who wants to make the difference. Just connect with Eth Wallet and start the work |
-| Checkpoints | Entities that are able to contribute to the revolution - entepreneurs, establishments, street points. . . |
-| Volunteers | CONFIRM if there will be a role to help the ecosystem - logistics, and other stuff|
-| Endpoints | the final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, other. . . |
+| **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
+| **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entepreneurs, establishments, street points and others. This role will be rewarded too.|
+| **Volunteers*** (MMP)| CONFIRM if there will be a role to help the ecosystem - logistics, wheighing the garbage, and ohter activities.
+| **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
+| **Sponsors** (MMP)| People and Businesses that are intereted in supporting the project by investing some Stake! |
 
 ### What are their pain points?
   - How to produce the initial material, like bags, scales, banners and other things? ICO?
