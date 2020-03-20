@@ -25,7 +25,8 @@ Thinking of the chemical molecules in plastic, we made a combination and ideas a
 Produced using recycled and biodegradable plastic, ZOPO bags were thought to be practical and comfortable for those who collect plastic waste. Every produced Z⬡P⬡ Bag must have an Eth Address (hash) and a QR Code to be scanned. A % of the collected Plastic waste will be used to produce more Bags!
 Each Checkpoint must request a batch of ZOPO bags - each one will be associated with the Checkpoint Address - and then with the Citizen's Address. The used Bags must return to the Checkpoints and go to their Destinations - Recycling Industries and other Endpoints.
 
-**PS: It will be necessary to do a better job in producing the bags for better design and usability - transparency, seal, etc.**
+**PS1: It will be necessary to do a better job in producing the bags for better design and usability - transparency, seal, etc.**
+**PS2: The initial production of the ZOPO Bags will need a sponsor or a fundraiser. Maybe we need to think an ICO or something like.**
 
 ## We are open to suggestions for changes!
 
