@@ -111,15 +111,15 @@ Throughout the creation of the solution we came to know some projects very simil
 
 [**Bounty for Basura**](https://www.youtube.com/watch?v=7S9uxDRJAdo)
 
-    **Pros and Cons**
-    - Mobilized by a reliable platform; ✔ 
-    - Running for years; ✔
-    - Uses blockchain as support; ✔
-    - Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
-    - Not much end user friendly; ✘
-    - Focused on ocean plastic collecting; ✘
-    - Needs to group people; ✘
-    - Sporadic Events (when Bounties are created); ✘
+**Pros and Cons**
+- Mobilized by a reliable platform; ✔ 
+- Running for years; ✔
+- Uses blockchain as support; ✔
+- Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
+- Not much end user friendly; ✘
+- Focused on ocean plastic collecting; ✘
+- Needs to group people; ✘
+- Sporadic Events (when Bounties are created); ✘
 
     
 [**Plastic Bank**](https://plasticbank.com/)
