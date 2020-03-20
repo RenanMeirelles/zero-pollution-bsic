@@ -81,7 +81,12 @@ Brief description.
 | **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
 | **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
 
-## Product Deliverables
+## Hackathon Deliverables
+[WEEK 1 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK1.md)
+[WEEK 2 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK2.md)
+[WEEKS 3 AND 4 DELIVERABLE POINTS]()
+
+### Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Project Management| [TRELLO BOARD - MANAGEMENT](https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution) |
@@ -93,7 +98,7 @@ Brief description.
 |SmartContracts|INCLUDE NEW TOKEN|
 | Landing Page| [PUBLISHED IN ANOTHER REPO TO NAVIGATE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
 
-## Potential Deliverables
+### Potential Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Research . . .  | try to find someone in brazil |
