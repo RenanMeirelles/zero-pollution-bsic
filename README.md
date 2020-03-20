@@ -84,7 +84,7 @@ Brief description.
 ## Hackathon Deliverables
 [WEEK 1 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK1.md)
 [WEEK 2 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK2.md)
-[WEEKS 3 AND 4 DELIVERABLE POINTS]()
+[WEEKS 3 AND 4 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEKS_3_4.md)
 
 ### Product Deliverables
 | Deliverables | Link |
@@ -110,6 +110,7 @@ Brief description.
 Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
 
 [**Bounty for Basura**](https://www.youtube.com/watch?v=7S9uxDRJAdo)
+
     **Pros and Cons**
     - Mobilized by a reliable platform; ✔ 
     - Running for years; ✔
@@ -122,6 +123,7 @@ Throughout the creation of the solution we came to know some projects very simil
 
     
 [**Plastic Bank**](https://plasticbank.com/)
+
 **Pros and Cons**
     - Recognized as one of the most important solutions to stop ocean plastic; ✔ 
     - Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
