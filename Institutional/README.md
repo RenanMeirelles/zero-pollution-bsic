@@ -24,10 +24,12 @@ Thinking of the chemical molecules in plastic, we made a combination and ideas a
 ### Z⬡P⬡ Bags - Used by Citizens to collect the Plastic waste:
 ![ZOPOBags](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/90427342_2561813470770972_5572277148057600000_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=lUCZsFoabd8AX-UmX87&_nc_ht=scontent.fvcp2-1.fna&oh=d4be6f5015a55693291fe20d25b1ef6b&oe=5E9A6F97)
 
-    - Produced using recycled and biodegradable plastic, ZOPO bags were thought to be practical and comfortable for those who collect plastic waste. 
+    - Produced using recycled and biodegradable plastic.
+    - ZOPO bags were thought to be practical and comfortable for those who collect plastic waste. 
     - Every produced Z⬡P⬡ Bag must have an Eth Address (hash) and a QR Code to be scanned. 
     - A % of the collected Plastic waste will be used to produce more Bags!
-    - Each Checkpoint must request a batch of ZOPO bags - each one will be associated with the Checkpoint Address - and then with the Citizen's Address. 
+    - Each Checkpoint must request a batch of ZOPO bags. Each bag will be associated with the Checkpoint Address.
+    - When checked out by a Citizen, the Bag's hash will be associated with the Citizen's Address.
     - The used Bags must return to the Checkpoints and go to their Destinations - Recycling Industries and other Endpoints.
 
 *PS1: It will be necessary to do a better job in producing the bags for better design and usability - transparency, seal, etc.*
