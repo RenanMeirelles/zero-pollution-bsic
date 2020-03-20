@@ -30,7 +30,7 @@ Thinking of the chemical molecules in plastic, we made a combination and ideas a
     - A % of the collected Plastic waste will be used to produce more Bags!
     - Each Checkpoint must request a batch of ZOPO bags. Each bag will be associated with the Checkpoint Address.
     - When checked out by a Citizen, the Bag's hash will be associated with the Citizen's Address.
-    - The used Bags must return to the Checkpoints and go to their Destinations - Recycling Industries and other Endpoints.
+    - Used Bags must return to the Checkpoints and go to their Destinations - Recycling Industries and other Endpoints.
 
 *PS1: It will be necessary to do a better job in producing the bags for better design and usability - transparency, seal, etc.*
 *PS2: The initial production of the ZOPO Bags will need a sponsor or a fundraiser. Maybe we need to think an ICO or something like.*
