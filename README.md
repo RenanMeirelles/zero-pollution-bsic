@@ -13,9 +13,9 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 
 If you want to follow the project progress, please click **[here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)**!
 
-If you want to see our Landing Page, click **[here](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html)**!
+If you want to see our **Landing Page**, click **[here](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html)**!
 
-If you want to read the full GreenPaper, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
+If you want to read the full **GreenPaper**, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
 
 
 
@@ -31,11 +31,11 @@ Our idea is to propose a **complete ecosystem**, where **Citizens** of any socia
 ## Ecosystem Personas
 | Roles | Description |
 | ------ | ------ |
-| **Citizens** | Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
-| **Checkpoints** | Entities that make the focal point of the ecosystem, contributing to its functioning - entepreneurs, establishments, street points and others. This role will be rewarded too.|
-| **Volunteers*** | CONFIRM if there will be a role to help the ecosystem - logistics, wheighing the garbage, and ohter activities.
-| **Endpoints** | The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
-| **Sponsors** | ********* |
+| **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
+| **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entepreneurs, establishments, street points and others. This role will be rewarded too.|
+| **Volunteers*** (MMP)| CONFIRM if there will be a role to help the ecosystem - logistics, wheighing the garbage, and ohter activities.
+| **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
+| **Sponsors** (MMP)| People and Businesses that are intereted in supporting the project by investing some Stake! |
 
 ## BUSINESS PROCESSES
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
@@ -98,6 +98,7 @@ Brief description.
 | Research . . .  | try to find someone in brazil |
 | Video . . .  | to do |
 |Pitch . . .  | to do |
+|Institutional and Identity |https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Institutional |
 
 # Similar Projects
 Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
@@ -119,8 +120,9 @@ Throughout the creation of the solution we came to know some projects very simil
     - Recognized as one of the most important solutions to stop ocean plastic; ✔ 
     - Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
     - Running since 2013; ✔
-    - Structured plastic destinations: partners, recycled products and more; ✔
-    - Not much end user friendly; ✘
+    - Structured plastic destinations: product partners, recycled products and more; ✔
+    - Collected Plastic exchange - cash, tokens, goods and services...✔ 
+    - A little bureaucratic process to become a Volunteer; ✘
     - Focused on ocean plastic collecting; ✘
     - Needs to group people; ✘
     - Sporadic Events (when Bounties are created); ✘
