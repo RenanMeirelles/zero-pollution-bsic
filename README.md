@@ -15,7 +15,7 @@ If you want to follow the project progress, please click **[here](https://trello
 
 If you want to see our Landing Page, click **[here](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html)**!
 
-If you want to read the full Whitepaper, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
+If you want to read the full GreenPaper, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
 
 
 
@@ -27,15 +27,6 @@ If you want to read the full Whitepaper, click **[here](https://docs.google.com/
 
 # Value Proposition
 Our idea is to propose a **complete ecosystem**, where **Citizens** of any social class can play important roles in engaging against **excessive plastic pollution** in the environment, using the **ZOPO dApp and Ethereum blockchain** as a support. A complete **(re)cycle** will be created, where citizens will be able to **collect** and take the plastic garbage to authorized **Checkpoints** - the plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded with ERC20 Tokens** that can be used in partner establishments. After all, people are driven by rewards. And more: the plastic cycle can be **fully tracked**!
-
-# Similar Projects
-**Bounty for Basura**
-    - Pros
-    - Cons
-    
-**Plastic Bank**
-    - Pros
-    - Cons
 
 ## Ecosystem Personas
 | Roles | Description |
@@ -107,6 +98,32 @@ Brief description.
 | Research . . .  | try to find someone in brazil |
 | Video . . .  | to do |
 |Pitch . . .  | to do |
+
+# Similar Projects
+Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
+
+[**Bounty for Basura**](https://www.youtube.com/watch?v=7S9uxDRJAdo)
+    **Pros and Cons**
+    - Mobilized by a reliable platform; ✔ 
+    - Running for years; ✔
+    - Uses blockchain as support; ✔
+    - Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
+    - Not much end user friendly; ✘
+    - Focused on ocean plastic collecting; ✘
+    - Needs to group people; ✘
+    - Sporadic Events (when Bounties are created); ✘
+
+    
+[**Plastic Bank**](https://plasticbank.com/)
+**Pros and Cons**
+    - Recognized as one of the most important solutions to stop ocean plastic; ✔ 
+    - Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
+    - Running since 2013; ✔
+    - Structured plastic destinations: partners, recycled products and more; ✔
+    - Not much end user friendly; ✘
+    - Focused on ocean plastic collecting; ✘
+    - Needs to group people; ✘
+    - Sporadic Events (when Bounties are created); ✘
 
 ## Plastic Pollution Data
 https://ourworldindata.org/plastic-pollution
