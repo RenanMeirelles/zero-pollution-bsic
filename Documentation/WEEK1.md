@@ -9,13 +9,11 @@
 |Renan Girotto Meirelles | [@renanmeirelles](https://gitcoin.co/renanmeirelles) | meirelles.biz@gmail.com| Business Analysis |
 |Paulo Gabriel Vieira de Sousa | [@paulovieirasousa](https://gitcoin.co/paulovieirasousa)| paulogabrielvieira@gmail.com | FullStack |
 
-Paul??? - @molecula451
-Nestor Bonilla???
 
 ## Specific Problem:
   - **Why is blockchain needed to solve this problem?**
   
-  Write the text with the Mentor - Talk about getting rid of government, about rewards using a specific Token, the traceability of the  addresses of the trash, etc.Talk that the Citizens and Entepreneur must mobilize something like that, to not depend on Governments.
+Blockchain is a potential technology to empower radical changes in the world. Thinking about a full Ecosystem, we can go further. We can think abou getting rid of government hands, about rewards using a specific Token, the traceability of the  addresses of the plastic waste, the reliability of the information, and more. When the web3 become stronger, we'll have a lot of protocols to connect with this ecosystem, such as Decentralized Identity and other examples.
   
   - **What demographics do you serve? What is the size of the market?**
   
