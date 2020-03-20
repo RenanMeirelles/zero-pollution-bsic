@@ -39,9 +39,9 @@ Our idea is to propose a **complete ecosystem**, where **Citizens** of any socia
 
 ## BUSINESS PROCESSES
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
-[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)
+[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
 
-If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/index.html#list)!
+If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
 ## DETAILED USE CASES
 - [**Connect with MetaMask**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/01.%20Connect%20With%20MetaMask.md)
