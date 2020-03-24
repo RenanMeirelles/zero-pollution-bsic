@@ -11,6 +11,9 @@
 
 
 ## Specific Problem:
+In practically all Brazilian cities we can notice a large amount of plastic garbage discarded in the streets, rivers, seas and other spots. This happens due to **2 factors: disposal of large companies and also due to people's lack of education.**
+Our goal is to drastically reduce plastic pollution in the environment, encouraging people to collect on their own, without depending on third parties.
+
   - **Why is blockchain needed to solve this problem?**
   
 Blockchain is a potential technology to empower radical changes in the world. Thinking about a full Ecosystem, we can go further. We can think about getting rid of government hands, about rewards using a specific Token, the traceability of the  addresses of the plastic waste, the reliability of the information, and more. When the web3 become stronger, we'll have a lot of protocols to connect with this ecosystem, such as Decentralized Identity and other examples.
