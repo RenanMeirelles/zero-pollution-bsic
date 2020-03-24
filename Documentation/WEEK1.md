@@ -13,7 +13,7 @@
 ## Specific Problem:
   - **Why is blockchain needed to solve this problem?**
   
-Blockchain is a potential technology to empower radical changes in the world. Thinking about a full Ecosystem, we can go further. We can think abou getting rid of government hands, about rewards using a specific Token, the traceability of the  addresses of the plastic waste, the reliability of the information, and more. When the web3 become stronger, we'll have a lot of protocols to connect with this ecosystem, such as Decentralized Identity and other examples.
+Blockchain is a potential technology to empower radical changes in the world. Thinking about a full Ecosystem, we can go further. We can think about getting rid of government hands, about rewards using a specific Token, the traceability of the  addresses of the plastic waste, the reliability of the information, and more. When the web3 become stronger, we'll have a lot of protocols to connect with this ecosystem, such as Decentralized Identity and other examples.
   
   - **What demographics do you serve? What is the size of the market?**
   
@@ -25,7 +25,8 @@ Blockchain is a potential technology to empower radical changes in the world. Th
   
   - **What are the geopolitical, cultural-social-economic factors that must be taken into consideration? What are some nuances and complexities that must be addressed?**
   
-  First, let's talk about the **cultural** factor. We know that, especially in emerging countries, the base of the problem is the educational structure. And then, we enter the **political** area: lack of investment both to form an educational base and to solve the massive pollution problem. However, lately we have seen a generation thirsting for environmental justice. With an accredited project of this size that can involve people who suffer from the government's destitution, with the potential for an **environmental revolution**.
+  First, let's talk about the **cultural** factor. We know that, especially in emerging countries, the base of the problem is the educational structure. And then, we enter the **political** area: lack of investment both to form an educational base and to solve the massive pollution problem. However, lately we have seen a generation thirsting for environmental justice. With an accredited project of this size that can involve people who suffer from the government's destitution, with the potential for an **environmental revolution**. 
+Thinking on the **economic** side, we can envisage this solution as a possibility to lift people out of extreme poverty - and for big Companies, a good sustainable showcase!
 
  
 
