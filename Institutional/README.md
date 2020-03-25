@@ -1,3 +1,13 @@
+# ZOPO Core 
+### Mission
+Engage and reward people committed to helping the environment, through the collection of plastic waste, with the support of a Blockchain Ecosystem.
+
+### Vision
+Initially, we need to ally ourselves with smaller, independent/local projects in order to gain strength. In the future, we want to scale to be a worldwide initiative, especially in places with less structure and money.
+
+### Values
+We believe in **people power**. Together, citizens and companies can make the difference (we will not distinguish social class or any type of label). Little by little, we can reduce the plastic waste disposed of in the environment.
+
 # BRANDING
 
 ## Visual Identity
