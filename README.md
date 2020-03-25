@@ -4,7 +4,7 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 
 **Powered by:**
 
-[![BSIC](https://10iyd315iql1cp7mg1jed84g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Blockchain_Social_Impact.jpg)
+![BSIC](https://10iyd315iql1cp7mg1jed84g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Blockchain_Social_Impact.jpg)
 
 # Welcome to the **Z**er**⬡** **P⬡**llution Ecosystem.
 ![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=4vaa9zBh2AMAX-1Ehlv&_nc_ht=scontent.fvcp2-1.fna&oh=7eb732c87cc6e4a0264fd68987dfc330&oe=5E923F2A)
@@ -45,7 +45,6 @@ Some projects already exist for plastic waste collection in Brazi, such as **[X�
 **Z⬡P⬡ Ecosystem** initially allied with projects like this, can become potential triggers for a **worldwide revolution**.
 
 # Z⬡P⬡  Ecosystem Solution
-
 ### Value Proposition
 Reduce Plastic Pollution on Earth close to ZERO, through **Citizen's** engagement, powered by a **decentralized blockchain ecosystem** and an **easy use DApp**.
 
@@ -71,10 +70,9 @@ This is the Macro View of the **Z⬡P⬡** Ecosystem.
 If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
 ### Storytelling - Use Cases
-
 **1 - [Register as a Citizen](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/02.%20Register%20as%20a%20Citizen.md)**
 
-*"Alice usually runs in the park and always find plastic garbage thrown next to a river. She heard about a platform called ZOPO, and she wants to register to help collect the plastic trash."*
+>*"Alice usually runs in the park and always find plastic garbage thrown next to a river. She heard about a platform called ZOPO, and she wants to register to help collect the plastic trash."*
 
 **Citizens** of any social class can easily register to participate using the DApp. 
 For those who have a smartphone, just access the ZOPO through the [MetaMask](https://play.google.com/store/apps/details?id=io.metamask&hl=en) app. 
@@ -83,31 +81,31 @@ In the future we can create our own wallet generator and use other providers - o
 
 **2 - [Register as a Checkpoint](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/03.%20Register%20as%20a%20Checkpoint.md)**
 
-*"Bob, who owns a nearby store, also pays attention to this problem of plastic waste. He also heard about the ZOPO platform and decided to help by being a Checkpoint."*
+>*"Bob, who owns a nearby store, also pays attention to this problem of plastic waste. He also heard about the ZOPO platform and decided to help by being a Checkpoint."*
 
 At the same time, establishments of any type of segment may register as **Checkpoints**, which will be the basis for supporting Citizens. They will be responsible for distributing the ZOPO bags, proposing bounties to the Citizens and destinating the ZOPO Bags to the Endpoints. They can connect using MetaMask too, and need to fill a register form.
 
 **3 - [Find Checkpoints](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/04.%20Find%20Checkpoints.md)**
 
-*"Alice, already registered as a **Citizen**, went for a run again and found what she expected. So, she opened the DApp and checked the map available at ZOPO Dapp. She found Bob's store, which was a 2 blocks away, offering a Token reward.*
+>*"Alice, already registered as a **Citizen**, went for a run again and found what she expected. So, she opened the DApp and checked the map available at ZOPO Dapp. She found Bob's store, which was a 2 blocks away, offering a Token reward.*
 
 To facilitate finding Checkpoints, Citizens will have a feature called **"Find Checkpoints"** - they will be able to locate the nearest Checkpoints and bounty information through the DApp map.
 
-**3 - [Check-out ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/05.%20Check-out%20ZOPO%20Bag.md) and Collect Plastic waste**
+**4 - [Check-out ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/05.%20Check-out%20ZOPO%20Bag.md) and Collect Plastic waste**
 
-*"After finding the Checkpoint of interest, Alice moved to it. There she was able to Checkout a ZOPO Bag by scanning the QR Code and start the plastic waste collecting. She put all the plastic waste in the ZOPO Bag and returned to Checkpoint "*.
+>*"After finding the Checkpoint of interest, Alice moved to it. There she was able to Checkout a ZOPO Bag by scanning the QR Code and start the plastic waste collecting. She put all the plastic waste in the ZOPO Bag and returned to Checkpoint "*.
 
 After the Citizen goes to a Checkpoint, he/she can check out a ZOPO bag and start collecting plastic waste. Citizen must scan the ZOPO Bag QR Code and confirm the association of his **Citizen Address** x **ZOPO Bag Address**. The DApp will lock the Checkout function, so the Citizen cannot take another bag.
 
-**4 - [Check-in ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/06.%20Check-in%20ZOPO%20Bag.md)**
+**5 - [Check-in ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/06.%20Check-in%20ZOPO%20Bag.md)**
 
-*"When she returned to Checkpoint, she Checked-in the bag. Bob veryfied the content and confirmed that everything was OK. So, Bob sealed the ZOPO Bag and rewarded Alice with the promised bounty - gave her 10 ZOPO Tokens."*
+>*"When she returned to Checkpoint, she Checked-in the bag. Bob veryfied the content and confirmed that everything was OK. So, Bob sealed the ZOPO Bag and rewarded Alice with the promised bounty - gave her 10 ZOPO Tokens."*
 
 To perform the Checkin, the Checkpoint must scan the **ZOPO Bag QR Code** and confirm the return of the same. After that, the Citizen will be able to Checkout another Bag if he/she want.
 
 **5 - [Mint ZOPO Tokens](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/08.%20Mint%20ZOPO%20Tokens)**
 
-*As promised, Bob said he would give tokens to Alice as a reward. For that, Bob will have access to the" Mint Tokens "function, which should generate ZOPO Tokens directly to Alice's wallet"*
+>*As promised, Bob said he would give tokens to Alice as a reward. For that, Bob will have access to the" Mint Tokens "function, which should generate ZOPO Tokens directly to Alice's wallet"*
 
 **Register as an Endpoint** - NOT AVAILABLE FOR MVP
 Brief description.
