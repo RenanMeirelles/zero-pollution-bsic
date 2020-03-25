@@ -42,10 +42,11 @@ Brazil can be considered a good case to be analyzed. It is a large country, with
 Some projects already exist for plastic waste collection in Brazi, such as **[Xô Plástico](https://www.instagram.com/xoplastico/?hl=en)**, a local initiative in Recife - Pernambuco. We did a **survey** with them, which can be analyzed **[HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/Potential%20Deliverables/Research.md)**.
 **Z⬡P⬡ Ecosystem** initially allied with projects like this, can become potential triggers for a **worldwide revolution**.
 
-# Z⬡P⬡ 's Value Proposition
+# Z⬡P⬡  Ecosystem Solution
+### Value Proposition
 To solve this problem, ZOPO wants to propose a **complete ecosystem**, where **Citizens** of any social class can play important roles in engaging against **excessive plastic pollution** in the environment, using the **ZOPO dApp and Ethereum blockchain** as a support. A complete **(re)cycle** will be created, where citizens will be able to **collect** and take the plastic garbage to authorized **Checkpoints** - the plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded with ERC20 Tokens** that can be used in partner establishments. After all, people are driven by rewards. And more: the plastic cycle can be **fully tracked**!
 
-## Ecosystem Personas
+### Ecosystem Personas
 | Roles | Description |
 | ------ | ------ |
 | **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
@@ -54,13 +55,13 @@ To solve this problem, ZOPO wants to propose a **complete ecosystem**, where **C
 | **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
 | **Sponsors** (MMP)| People and Businesses that are intereted in supporting the project by investing some Stake! |
 
-## BUSINESS PROCESSES
+### BUSINESS PROCESSES
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
 [![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
 
 If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
-## DETAILED USE CASES
+### DETAILED USE CASES
 - [**Connect with MetaMask**](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/01.%20Connect%20With%20MetaMask.md)
 This will be the user's first contact with the ecosystem. This first version of the Ecosystem, user can connect with an existing Ethereum Account. In the future we can create our own wallet generator and use other providers - or even DID Providers (Civic, uPort...)
 
@@ -92,18 +93,19 @@ Brief description.
 - **Ecosystem Analystics**
 Brief description.
 
-## ROADMAP
+### ROADMAP
 | Product | Features |
 | ------ | ------ |
 | **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
 | **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
 
-## Hackathon Deliverables
+
+# Hackathon Deliverables
 [WEEK 1 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK1.md)
 [WEEK 2 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK2.md)
 [WEEKS 3 AND 4 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEKS_3_4.md)
 
-### Product Deliverables
+## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Project Management| [TRELLO BOARD - MANAGEMENT](https://trello.com/b/k5yYyvj2/bsic-hackathon-zero-pollution) |
@@ -115,7 +117,7 @@ Brief description.
 |SmartContracts|INCLUDE NEW TOKEN|
 | Landing Page| [PUBLISHED IN ANOTHER REPO TO NAVIGATE](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
 
-### Potential Deliverables
+## Potential Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Research . . .  | try to find someone in brazil |
@@ -150,9 +152,6 @@ Throughout the creation of the solution we came to know some projects very simil
 
 [**4ocean**](https://4ocean.com)
     Another potential partner and similar project is the 4ocean, focused on ocean plastic cleaning too. They act like the Bounty for Basura, doing some task forces to clean up the shores. They have already cleaned about 8,506,541 lbs of plastic!
-
-## Important Plastic Pollution base of knowledge
-https://ourworldindata.org/plastic-pollution
 
 
 
