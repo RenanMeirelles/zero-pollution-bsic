@@ -30,7 +30,21 @@ XôPlastico -
 **9 - Are there any local obstacles or restrictions that hinder your activities?**
 XôPlastico - 
 
-Action Example:
+### Example of a call for plastic collection action:
+"Sunday (08/03) we will have another cleaning action in the mangrove.
+
+Meeting point: Rua da Aurora, Boa Vista, Recife. In front of the court of auditors, next to the Pernambuco high school.
+
+Opening hours: 09:00.
+
+Everyone is invited | Event is open to the general public, free of charge, Participate! Nature thanks you.💙 Be sure to be a part of it! Call your friends and family, together we are more, Together we are Xô Plastic! ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+TAKE TOGETHER if you have:
+Galoshes or closed shoes.
+Your sunscreen and hat.
+Your bottle of water and glass.
+Your Snack.
+
+Attention, I ask you to bring a bottle of water or a glass, we do not distribute disposables in our actions, to save our natural resources and avoid generating more waste on the planet."
 
 ![Action](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/90633589_648290745984872_8407370384243949568_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=NoN9R7EzuX0AX-WhvYM&_nc_ht=scontent.fvcp2-1.fna&oh=d1bd1ede4b66373abd0f21a24ca84b74&oe=5E9FC63A)
 
