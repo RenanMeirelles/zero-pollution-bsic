@@ -25,8 +25,19 @@ If you want to read the full **GreenPaper**, click **[here](https://docs.google.
 |[Renan Girotto Meirelles](https://www.linkedin.com/in/renan-girotto-meirelles-21311121/) | [@renanmeirelles](https://gitcoin.co/renanmeirelles) | meirelles.biz@gmail.com| Business Analysis and Documentation |
 |Paulo Gabriel Vieira de Sousa | [@paulovieirasousa](https://gitcoin.co/paulovieirasousa)| paulogabrielvieira@gmail.com | FullStack - SmartContracts and Front-end |
 
-# Value Proposition
-Our idea is to propose a **complete ecosystem**, where **Citizens** of any social class can play important roles in engaging against **excessive plastic pollution** in the environment, using the **ZOPO dApp and Ethereum blockchain** as a support. A complete **(re)cycle** will be created, where citizens will be able to **collect** and take the plastic garbage to authorized **Checkpoints** - the plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded with ERC20 Tokens** that can be used in partner establishments. After all, people are driven by rewards. And more: the plastic cycle can be **fully tracked**!
+# Plastic Pollution - a HUGE PROBLEM to be solved
+**Plastic pollution** has reached almost inestimable levels in the whole world - seas, rivers, streets and lots of public places are affected by. This pollution can be caused by several factors of origin, such as lack of education of the population, irregular disposal of large producers, lack of investment in selective collection, among others.  The fact is, we need to find **a way to stop it**! 
+And this is the point: if each **CITIZEN** does his part, **little by little** we will at least be able to reduce these rates.
+
+## Specific Problem - Brazilian Pollution
+Brazil can be considered a good case to be analyzed. It is a large country, with high economic, cultural and social potential, but we can still find a lot of garbage and pollution with plastic spread all over the place - both in poorer places and in upscale neighborhoods.  A lot of this is due to a lack of education and also a lack of investment in selective collection and recycling. The Government is unable to solve the problem alone. The solution should not be just to "remedy", but to tackle the root of the problem - but that is Government's responsibility.
+
+Projects already exist for plastic waste collection in Brazi, such as **[Xô Plástico](https://www.instagram.com/xoplastico/?hl=en)**, a local initiative in Recife - Pernambuco. We did a **survey** with them, which can be analyzed **[HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/Potential%20Deliverables/Research.md)**.
+
+Projects like this allied with the **ZOPO Ecosystem** can become potential triggers for a **revolution**.
+
+# Z⬡P⬡ 's Value Proposition
+To solve this problem, ZOPO wants to propose a **complete ecosystem**, where **Citizens** of any social class can play important roles in engaging against **excessive plastic pollution** in the environment, using the **ZOPO dApp and Ethereum blockchain** as a support. A complete **(re)cycle** will be created, where citizens will be able to **collect** and take the plastic garbage to authorized **Checkpoints** - the plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded with ERC20 Tokens** that can be used in partner establishments. After all, people are driven by rewards. And more: the plastic cycle can be **fully tracked**!
 
 ## Ecosystem Personas
 | Roles | Description |
@@ -110,28 +121,26 @@ Brief description.
 Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
 
 [**Bounty for Basura**](https://www.youtube.com/watch?v=7S9uxDRJAdo)
-
-**Pros and Cons**
-- Mobilized by a reliable platform; ✔ 
-- Running for years; ✔
-- Uses blockchain as support; ✔
-- Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
-- Not much end user friendly; ✘
-- Focused on ocean plastic collecting; ✘
-- Needs to group people; ✘
-- Sporadic Events (when Bounties are created); ✘
+    **Pros and Cons**
+    - Mobilized by a reliable platform; ✔ 
+    - Running for years; ✔
+    - Uses blockchain as support; ✔
+    - Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
+    - Not much end user friendly; ✘
+    - Focused on ocean plastic collecting; ✘
+    - Needs to group people; ✘
+    - Sporadic Events (when Bounties are created); ✘
 
     
 [**Plastic Bank**](https://plasticbank.com/)
-
 **Pros and Cons**
-- Recognized as one of the most important solutions to stop ocean plastic; ✔ 
-- Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
-- Running since 2013; ✔
-- Structured plastic destinations: product partners, recycled products and more; ✔
-- Collected Plastic exchange - cash, tokens, goods and services...✔ 
-- A little bureaucratic process to become a Volunteer; ✘
-- Focused on ocean plastic collecting; ✘
+    - Recognized as one of the most important solutions to stop ocean plastic; ✔ 
+    - Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
+    - Running since 2013; ✔
+    - Structured plastic destinations: product partners, recycled products and more; ✔
+    - Collected Plastic exchange - cash, tokens, goods and services...✔ 
+    - A little bureaucratic process to become a Volunteer; ✘
+    - Focused on ocean plastic collecting; ✘
 
 [**4ocean**](https://4ocean.com)
     Another potential partner and similar project is the 4ocean, focused on ocean plastic cleaning too. They act like the Bounty for Basura, doing some task forces to clean up the shores. They have already cleaned about 8,506,541 lbs of plastic!
