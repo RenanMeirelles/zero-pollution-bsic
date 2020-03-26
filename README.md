@@ -118,7 +118,7 @@ Brief description.
 | Product | Features |
 | ------ | ------ |
 | **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
-| **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
+| **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics / Reputation Mechanism |
 
 # Similar Projects
 Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
