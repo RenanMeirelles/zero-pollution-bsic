@@ -8,7 +8,10 @@ Initially, we need to ally ourselves with smaller, independent/local projects in
 ### Values
 We believe in **people power**. Together, citizens and companies can make the difference (we will not distinguish social class or any type of label). Little by little, we can reduce the plastic waste disposed of in the environment.
 
-# BRANDING
+# Business Model
+![CanvasBusinessModel](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/91021428_3006858209334268_1550281905918705664_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=-VLlbCgCFdYAX_QX9Eu&_nc_ht=scontent.fvcp2-1.fna&oh=30a17b8af803f899e79c43b810298c18&oe=5EA2AED9)
+
+# Branding and Marketing
 
 ## Visual Identity
 
