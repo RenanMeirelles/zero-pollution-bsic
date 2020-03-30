@@ -35,30 +35,25 @@ We don't, and I think so. Everything that comes to improve the engagement of mor
 
 **January**
 
-Location: Pina's beach.
-Date 1/18/2020
-We collected: 66,681 kg
-About 50 volunteers. 
+| Location | Date | Collected Waste| Volunteers |
+| ------ | ------ | ------ | ------ |
+| Pina's Beach | 1/18/2020 | 66,681 kg | About 50 |
 
-Location: Mangrove on Rua da Aurora, Boa Vista, Recife.
-Date 1/26/2020
-We collected: 493,601 kg
-About 40 volunteers.
+| Location | Date | Collected Waste| Volunteers |
+| ------ | ------ | ------ | ------ |
+| Mangrove on Rua da Aurora, Boa Vista, Recife | 1/26/2020 | 493,601 kg | About 40 |
 
 **February**
 
-Location: Maracaípe Beach.
-02/15/2020
-We collected: 33. 020 kg
-About 40 volunteers. 
+| Location | Date | Collected Waste| Volunteers |
+| ------ | ------ | ------ | ------ |
+| Maracaípe Beach | 02/15/2020 | 33. 020 kg | About 40 |
 
-Março
+**March**
 
-Location: Mangrove on Rua da Aurora, Boa Vista, Recife.
-08/03/2020
-We collected: 496,524 kg
-About 40 volunteers.
-
+| Location | Date | Collected Waste| Volunteers |
+| ------ | ------ | ------ | ------ |
+| Mangrove on Rua da Aurora, Boa Vista, Recife | 08/03/2020 | 496,524 kg | About 40 |
 
 **9 - Are there any local obstacles or restrictions that hinder your activities?**
 XôPlastico - 
