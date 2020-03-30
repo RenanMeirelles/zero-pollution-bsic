@@ -4,7 +4,7 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 
 **Powered by:**
 
-![BSIC](https://10iyd315iql1cp7mg1jed84g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Blockchain_Social_Impact.jpg)
+[![BSIC](https://10iyd315iql1cp7mg1jed84g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Blockchain_Social_Impact.jpg)](https://blockchainforsocialimpact.com/)
 
 # Welcome to the **Z**er**⬡** **P⬡**llution Ecosystem.
 ![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=4vaa9zBh2AMAX-1Ehlv&_nc_ht=scontent.fvcp2-1.fna&oh=7eb732c87cc6e4a0264fd68987dfc330&oe=5E923F2A)
@@ -40,16 +40,17 @@ Brazil can be considered a good case to be analyzed. It is a large country, with
 - Each Brazilian citizen produces **1 kg of plastic waste per week**;
 
 **Solution Attempts**
+
 Some projects already exist for plastic waste collection in Brazi, such as **[Xô Plástico](https://www.instagram.com/xoplastico/?hl=en)**, a local initiative in Recife - Pernambuco. We did a **survey** with them, which can be analyzed **[HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/Potential%20Deliverables/Research.md)**.
 
 **Z⬡P⬡ Ecosystem** initially allied with projects like this, can become potential triggers for a **worldwide revolution**.
 
 # Z⬡P⬡  Ecosystem Solution
 ### Value Proposition
-Reduce Plastic Pollution on Earth close to ZERO, through **Citizen's** engagement, powered by a **decentralized blockchain ecosystem** and an **easy use DApp**.
+Reduce Plastic Pollution on Earth close to ZERO, through **Citizen's**  engagement, powered by a **decentralized blockchain ecosystem** and an **easy use DApp**.
 
-### But, How?
-A complete **(re)cycle** will be created, where **Citizens** will be able to **collect** and take the plastic garbage to authorized **Checkpoints** - the full plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded** by the Checkpoints - earning Tokens or Bounties like products, services, and other stuff. After all, people are driven by rewards. And more: the plastic cycle can be **end-to-end tracked**!
+### But, how does it work?
+A complete plastic **(re)cycle** will be created, where **Citizens** will be able to **collect** and take the plastic waste using our **Biodegradable Plastic Bag** to authorized **Checkpoints**. The full plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded** by the Checkpoints - earning Tokens or Bounties, like products, services, and other stuff. After all, people are driven by rewards. And more: the plastic cycle can be **end-to-end tracked**!
 
 You can find the **detailed Process** below!
 
@@ -57,15 +58,15 @@ You can find the **detailed Process** below!
 | Roles | Description |
 | ------ | ------ | 
 | **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
-| **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entepreneurs, establishments, street points and others. This role will be rewarded too.|
-| **Volunteers*** (MMP)| CONFIRM if there will be a role to help the ecosystem - logistics, wheighing the garbage, and ohter activities.
+| **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entrepreneurs, establishments, street points and others. This role will be rewarded too.|
+| **Volunteers*** (MMP)| Confirm if there will be a role to help the ecosystem - logistics and other activities. |
 | **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
-| **Sponsors** (MMP)| People and Businesses that are intereted in supporting the project by investing some Stake! |
+| **Sponsors** (MMP)| People and Businesses that are interested in supporting the project by investing some Stake! |
 
 ### Business Processes
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
 
-[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/88220510_603892543794488_3831599170108522496_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=J9zmpJw1tawAX-EyT8J&_nc_ht=scontent.fvcp2-1.fna&oh=e9107e86dae68c046be0eb9222904c95&oe=5EFC405F)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
+[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/91776625_547429862566533_2382792227404382208_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=axckYNFNKIAAX8F7xrJ&_nc_ht=scontent.fvcp2-1.fna&oh=bca530665f8e6e91657eef9cbf0b214e&oe=5EA8428D)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
 
 If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
@@ -85,62 +86,76 @@ In the future we can create our own wallet generator and use other providers - o
 
 At the same time, establishments of any type of segment may register as **Checkpoints**, which will be the basis for supporting Citizens. They will be responsible for distributing the ZOPO bags, proposing bounties to the Citizens and destinating the ZOPO Bags to the Endpoints. They can connect using MetaMask too, and need to fill a register form.
 
-**3 - [Find Checkpoints](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/04.%20Find%20Checkpoints.md)**
+3 - Add Reward
+>"But, Bob doesn't want to be just a supportive place. He wants to reward a T-shirt and 10 ZOPO Tokens for those who deliver a bag full of plastic."
 
->*"Alice, already registered as a **Citizen**, went for a run again and found what she expected. So, she opened the DApp and checked the map available at ZOPO Dapp. She found Bob's store, which was a 2 blocks away, offering a Token reward.*
+**4 - [Find Checkpoints](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/04.%20Find%20Checkpoints.md)**
 
-To facilitate finding Checkpoints, Citizens will have a feature called **"Find Checkpoints"** - they will be able to locate the nearest Checkpoints and bounty information through the DApp map.
+>*"Alice, already registered as a Citizen, went for a run again and found what she expected. So, she opened the DApp and checked the map available at ZOPO Dapp. She found Bob's store, which was 2 blocks away, offering a Token reward.”*
 
-**4 - [Check-out ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/05.%20Check-out%20ZOPO%20Bag.md) and Collect Plastic waste**
+To facilitate finding Checkpoints, Citizens will have a feature called **"Find Checkpoints"** - they will be able to locate the nearest Checkpoints and the reward information through the DApp map.
+
+**5 - [Check-out ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/05.%20Check-out%20ZOPO%20Bag.md) and Collect Plastic waste**
 
 >*"After finding the Checkpoint of interest, Alice moved to it. There she was able to Checkout a ZOPO Bag by scanning the QR Code and start the plastic waste collecting. She put all the plastic waste in the ZOPO Bag and returned to Checkpoint "*.
 
 After the Citizen goes to a Checkpoint, he/she can check out a ZOPO bag and start collecting plastic waste. Citizen must scan the ZOPO Bag QR Code and confirm the association of his **Citizen Address** x **ZOPO Bag Address**. The DApp will lock the Checkout function, so the Citizen cannot take another bag.
 
-**5 - [Check-in ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/06.%20Check-in%20ZOPO%20Bag.md)**
+**6 - [Check-in ZOPO Bag](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/06.%20Check-in%20ZOPO%20Bag.md)**
 
->*"When she returned to Checkpoint, she Checked-in the bag. Bob veryfied the content and confirmed that everything was OK. So, Bob sealed the ZOPO Bag and rewarded Alice with the promised bounty - gave her 10 ZOPO Tokens."*
+>*"When she returned to Checkpoint, she Checked-in the bag. Bob verified the content and confirmed that everything was OK. So, Bob sealed the ZOPO Bag and rewarded Alice with the promised bounty - gave her a T-shirt and 10 ZOPO Tokens."*
 
 To perform the Checkin, the Checkpoint must scan the **ZOPO Bag QR Code** and confirm the return of the same. After that, the Citizen will be able to Checkout another Bag if he/she want.
 
-**5 - [Mint ZOPO Tokens](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/08.%20Mint%20ZOPO%20Tokens)**
+**7 - [Mint ZOPO Tokens](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/08.%20Mint%20ZOPO%20Tokens)**
 
 >*As promised, Bob said he would give tokens to Alice as a reward. For that, Bob will have access to the" Mint Tokens "function, which should generate ZOPO Tokens directly to Alice's wallet"*
 
-**Register as an Endpoint** - NOT AVAILABLE FOR MVP
-Brief description.
-**Use ZOPO Tokens** - NOT AVAILABLE FOR MVP
-Brief description.
-**Ecosystem Analystics** - NOT AVAILABLE FOR MVP
-Brief description.
+Checkpoints that place ZOPO Tokens as a reward, must have access to Transfer and Mint functions.
+
+**More Features:**
+Register as an Endpoint - NOT AVAILABLE FOR MVP
+Use ZOPO Tokens - NOT AVAILABLE FOR MVP
+Ecosystem Analystics - NOT AVAILABLE FOR MVP
+Reputation Management - NOT AVAILABLE FOR MVP
+
 
 ### ROADMAP
 | Product | Features |
 | ------ | ------ |
 | **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
-| **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics / Reputation Mechanism |
+| **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
 
 # Similar Projects
 Throughout the creation of the solution we came to know some projects very similar to our idea. However, we identified some points where we can improve and be different, aiming to reach a wider range of engaged people. Even so, they are potential partners to work together!
 
 [**Bounty for Basura**](https://www.youtube.com/watch?v=7S9uxDRJAdo)
-
-**Pros and Cons**
-- Mobilized by a reliable platform; ✔ 
-- Running for years; ✔
-- Uses blockchain as support; ✔
-- Needs volunteers and people to organize the Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘
-- Not much end user friendly; ✘
-- Focused on ocean plastic collecting; ✘
-- Needs to group people; ✘
-- Sporadic Events (when Bounties are created); ✘
+Bounty for Basura is a project led by the Bounties Network platform. Their goal is to bring people together to collect garbage in the oceans and distribute bounties as income to the participants.
+**Comparison**
+| Bounty for Basura | ZOPO Ecosystem |
+| ------ | ------ |
+| Mobilized by a reliable platform ✔  | A new solution that will take some time to gain strength |
+|Running for years ✔ | It's still an idea |
+| Uses blockchain as support ✔ | Uses blockchain as support (full Ecosystem)|
+|The process is not much end user friendly ✘ | ZOPO is looking for a solution that facilitates people's engagement |
+| Needs volunteers and people to organize Bounties using the [Bounties Network Platform](https://www.bounties.network); ✘ | Personas can spontaneously participate |
+| Sporadic Events (when Bounties are created); ✘ |Continuous plastic waste collection |
+| Focused on ocean plastic collecting; ✘ | Focused on the whole environment |
 
 [**Plastic Bank**](https://plasticbank.com/)
+Plastic Bank is a Social Plastic® Ecosystem to offset  plastic footprint become Plastic Neutral and establish a position as an environmental leader.
+**Comparison**
+| Plastic Bank | ZOPO Ecosystem |
+| ------ | ------ |
+| Recognized as one of the most important solutions to stop ocean plastic; ✔   | A new solution that will take some time to gain strength ✘ |
+| Running since 2013; ✔ |It's still an idea  ✘|
+|Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ |
+| Uses blockchain as support ✔ | Uses blockchain as support (full Ecosystem)|
 
 **Pros and Cons**
-- Recognized as one of the most important solutions to stop ocean plastic; ✔ 
-- Has recovered and recycled over 6.25 Million KG (13,000,000 lbs) of ocean bound plastic; ✔ 
-- Running since 2013; ✔
+- 
+-  
+- 
 - Structured plastic destinations: product partners, recycled products and more; ✔
 - Collected Plastic exchange - cash, tokens, goods and services...✔ 
 - A little bureaucratic process to become a Volunteer; ✘
