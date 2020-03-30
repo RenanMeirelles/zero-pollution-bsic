@@ -4,28 +4,61 @@
 
 ## Survey
 **1 - What was the reason for the creation of the 'Xô Plástico' initiative?**
-XôPlastico - 
+>XôPlastico - See people's disregard for natural environments. Plastic pollution is a global problem that has many consequences, especially for marine life. Agent usually says that it was love of life that made us create plastic shampoo, create a movement that sensitizes people to see that there is a problem, that we are guilty and that we must change and unite to seek solutions.  
 
 **2 - Who drives the initiative? People who came together for an ideal? Do you have supporters?**
-XôPlastico - XôPlastico - 
+>XôPlastico - There are two twin sisters, Laís Araújo, student of biological sciences at UPE and Laísa Araújo, student of Librarianship at UFPE. We have volunteers, who are the people who make everything happen together with agents in cleaning efforts.
 
 **3 - Can plastic pollution be located in all regions of Recife (poorest, noblest areas, beaches, streets)?**
-XôPlastico - 
+>XôPlastico - It's sad, but YES.
 
 **4 - What dynamics do you adopt for the collection? Do you need people to register? Do you create events and scheduled actions to bring people together?**
-XôPlastico - 
+>XôPlastico - It depends, each cleaning action requires a different methodology. There are actions that we post on social networks, without registration, just get to the place and time and be part of it. There will be action that we go to more distant beaches and we will need a bus, so we will contact a travel company, our partner and we will ask for a bus, for this action it is necessary to register and only those who registered will go.
+
+Yes, we usually have a calendar of actions for the month.
+
 
 **5 - What is done with the collected plastic waste? What are the destinations?**
-XôPlastico - 
+>XôPlastico - 
+It also depends, for actions on beaches, the collected waste is sent to recycling cooperatives. When the cleaning action takes place in the mangrove, the waste is sent to the city's landfill.
+
 
 **6 - Are people who participate in collections encouraged in any way? Are they rewarded by participating?**
-XôPlastico - 
+>XôPlastico - I believe that yes, the desire to be part of the change, makes people leave home to help nature. They are not paid, everything is voluntary.
 
 **7 - Do you have any technology support? Systems or something that helps with execution? If not, do you think it would be interesting?**
-XôPlastico - 
+>XôPlastico -
+We don't, and I think so. Everything that comes to improve the engagement of more people is good.
 
 **8 - Could you give us data on quantities already collected, number of shares, locations, etc.?**
-XôPlastico - 
+>XôPlastico - I can give you the data for 2020, but we have already done more than 20 cleaning actions since 2018 and there are already about 5 tons of waste collected.
+
+**January**
+
+Location: Pina's beach.
+Date 1/18/2020
+We collected: 66,681 kg
+About 50 volunteers. 
+
+Location: Mangrove on Rua da Aurora, Boa Vista, Recife.
+Date 1/26/2020
+We collected: 493,601 kg
+About 40 volunteers.
+
+**February**
+
+Location: Maracaípe Beach.
+02/15/2020
+We collected: 33. 020 kg
+About 40 volunteers. 
+
+Março
+
+Location: Mangrove on Rua da Aurora, Boa Vista, Recife.
+08/03/2020
+We collected: 496,524 kg
+About 40 volunteers.
+
 
 **9 - Are there any local obstacles or restrictions that hinder your activities?**
 XôPlastico - 
