@@ -114,7 +114,7 @@ Checkpoints that place ZOPO Tokens as a reward, must have access to Transfer and
 ### **Plastic Tracking** 
 The idea is that, when we have the complete cycle of the Ecosystem, we can verify the **origin of the plastic input**, where it was discarded and collected, by whom, through which Checkpoint passed until it was recycled, how long it took from collection to recycling and more. Using a tool like The Graph, we will be checking all transactions registered.
 
-### **Ecosystem Analystics**
+### **Ecosystem Analytics**
 Reports, Dashboards and Queries, probably using TheGraph!
 **Examples of collected data:**
 Quantity of Engaged Citizens, Citizens/Checkpoints/Endpoints per location, Quantity of collected plastic per location, Quantity of plastic collected per Citizen, Quantity of ZOPO Bags generated x used, Average time from collection to recycling by location...
