@@ -109,17 +109,19 @@ To perform the Checkin, the Checkpoint must scan the **ZOPO Bag QR Code** and co
 
 Checkpoints that place ZOPO Tokens as a reward, must have access to Transfer and Mint functions.
 
-**Quick Description of future Features:**
+### **Quick Description of future Features:**
 
-**Register as an Endpoint** - Registration of establishments that want to be a destination for ZOPO Bags.
+### **Plastic Tracking** 
+The idea is that, when we have the complete cycle of the Ecosystem, we can verify the **origin of the plastic input**, where it was discarded and collected, by whom, through which Checkpoint passed until it was recycled, how long it took from collection to recycling and more. Using a tool like The Graph, we will be checking all transactions registered.
 
-**Use ZOPO Tokens** - Payments and transactions involving ZOPO Tokens.
+### **Ecosystem Analystics**
+Reports, Dashboards and Queries, probably using TheGraph!
+**Examples of collected data:**
+Quantity of Engaged Citizens, Citizens/Checkpoints/Endpoints per location, Quantity of collected plastic per location, Quantity of plastic collected per Citizen, Quantity of ZOPO Bags generated x used, Average time from collection to recycling by location...
+ 
+### **Reputation Management**
+Reputation mechanism that measures the engagement of Citizens, Checkpoints and Endpoints in the Ecosystem. Possibility of setting up rankings, having prizes, etc.
 
-**Ecosystem Analystics** - Reports, Dashboards and Queries such as Quantity of plastic collected by region, by citizen, by Checkpoint, among others. Probably using TheGraph! 
-
-**Reputation Management** - Reputation system that controls how much a citizen, checkpoint and endpoint interacted and helped the environment.
-
-**Pastic Tracking** - System that will allow to see the origin of the plastic material, where it was discarded and collected, by whom, through which checkpoint it passed until it became a new Plastic product - all transactions will be registered.
 
 ### ROADMAP
 | Product | Features |
@@ -156,6 +158,7 @@ Some projects already exist for plastic waste collection in Brazil, such as **[X
 
 [WEEKS 3 AND 4 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEKS_3_4.md)
 
+[WEEK 5 DELIVERABLE POINTS](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/WEEK5.md)
 ## Product Deliverables
 | Deliverables | Link |
 | ------ | ------ |
