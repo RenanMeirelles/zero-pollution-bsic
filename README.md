@@ -110,21 +110,16 @@ To perform the Checkin, the Checkpoint must scan the **ZOPO Bag QR Code** and co
 Checkpoints that place ZOPO Tokens as a reward, must have access to Transfer and Mint functions.
 
 **Quick Description of future Features:**
-
 **Register as an Endpoint** - Registration of establishments that want to be a destination for ZOPO Bags.
-
 **Use ZOPO Tokens** - Payments and transactions involving ZOPO Tokens.
-
 **Ecosystem Analystics** - Reports, Dashboards and Queries such as Quantity of plastic collected by region, by citizen, by Checkpoint, among others. Probably using TheGraph! 
-
 **Reputation Management** - Reputation system that controls how much a citizen, checkpoint and endpoint interacted and helped the environment.
-
 **Pastic Tracking** - System that will allow to see the origin of the plastic material, where it was discarded and collected, by whom, through which checkpoint it passed until it became a new Plastic product - all transactions will be registered.
 
 ### ROADMAP
 | Product | Features |
 | ------ | ------ |
-| **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / heck-in ZOPO Bag / Wheigh Plastic / Mint ZOPO Tokens |
+| **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / Check-in ZOPO Bag / Add Reward / Mint ZOPO Tokens |
 | **MMP**| Register as an Endpoint / Register as a Volunteer / Use ZOPO Tokens / Ecosystem Analytics |
 
 ### Pioneer Solutions
@@ -163,8 +158,10 @@ Some projects already exist for plastic waste collection in Brazil, such as **[X
 | Business Process (BPMN) | [BUSINESS PROCESS DIAGRAMS (BPMN2.0)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list) |
 | User Stories (Use Cases) | [Detailed User Stories and Rules here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Documentation/User%20Stories%20(Specification))
 | Prototypes |[FIGMA Navigable Wireframes](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom)|
+|DApp|[DApp Code here]()|
 |SmartContracts|[Token, Main SmartContract and more here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token)|
 | Landing Page| [Published Landing Page (Draft)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
+| GreenPaper | [Google Docs GreenPaper (Draft)](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing) |
 
 ## Potential Deliverables
 | Deliverables | Link |
@@ -174,6 +171,7 @@ Some projects already exist for plastic waste collection in Brazil, such as **[X
 |Pitch Deck  | to do |
 |Institutional and Identity | [Mission, Vision, Values, Business Model, Branding/Marketing](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Institutional) |
 
+**Special thanks to the Mentors and the Staff who supported the idea.**
 
 
 
