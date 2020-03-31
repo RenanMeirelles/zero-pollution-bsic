@@ -17,7 +17,7 @@
 
 **Landing Page draft is available [here](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html)**
 
-**The MVP detailed information are available in the ROADMAP section of the [GreenPaper](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit#)**
+**The MVP detailed information are available in the ROADMAP section of the [GreenPaper](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**
 | Product | Features |
 | ------ | ------ |
 | **MVP** | Connect with MetaMask / Register as a Citizen / Register as a Checkpoint / Find Checkpoints / Check-out ZOPO Bag / Check-in ZOPO Bag / Add Reward / Mint ZOPO Tokens |
