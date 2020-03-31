@@ -110,10 +110,15 @@ To perform the Checkin, the Checkpoint must scan the **ZOPO Bag QR Code** and co
 Checkpoints that place ZOPO Tokens as a reward, must have access to Transfer and Mint functions.
 
 **Quick Description of future Features:**
+
 **Register as an Endpoint** - Registration of establishments that want to be a destination for ZOPO Bags.
+
 **Use ZOPO Tokens** - Payments and transactions involving ZOPO Tokens.
+
 **Ecosystem Analystics** - Reports, Dashboards and Queries such as Quantity of plastic collected by region, by citizen, by Checkpoint, among others. Probably using TheGraph! 
+
 **Reputation Management** - Reputation system that controls how much a citizen, checkpoint and endpoint interacted and helped the environment.
+
 **Pastic Tracking** - System that will allow to see the origin of the plastic material, where it was discarded and collected, by whom, through which checkpoint it passed until it became a new Plastic product - all transactions will be registered.
 
 ### ROADMAP
