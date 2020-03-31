@@ -46,6 +46,9 @@ Thinking of the chemical molecules in plastic, we made a combination and ideas a
 
 *PS2: The initial production of the ZOPO Bags will need a sponsor or a fundraiser. Maybe we need to think an ICO or something like.*
 
+### Z⬡P⬡ Shirts and Checkpoints Display:
+![ZOPODisplay](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/91805263_875661452907119_6201637294558937088_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=8go1gQ5gxR0AX_K48NZ&_nc_ht=scontent.fvcp2-1.fna&oh=d706965b56cb02a209b68046f76595ff&oe=5EA6F1DA)
+
 ### We are open to suggestions for changes!
 
 
