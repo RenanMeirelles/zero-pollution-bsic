@@ -1,15 +1,17 @@
 
 # Main Functions of the ZeroPollution Smart Contracts
 
-##CITIZEN CONTRACT:
+## CITIZEN CONTRACT:
 
-## Write Functions
+### Write Functions
 
 ### addCitizen
 >User Story - Register as a Citizen
 Adiciona um Address à role de Citizen
 Verifica se o Address já é um Checkpoint - Confirmar
 Permite adicionar Nome e E-mail - para isso precisaria gastar Gas
+
+## CHECKPOINT CONTRACT:
       
 ### addCheckpoint
 >User Story - Register as a Checkpoint
