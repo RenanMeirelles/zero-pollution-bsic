@@ -7,28 +7,28 @@
 
 ### addCitizen
 >User Story - Register as a Citizen
-Adiciona um Address à role de Citizen
-Verifica se o Address já é um Checkpoint - Confirmar
-Permite adicionar Nome e E-mail - para isso precisaria gastar Gas
+Adds an Address to the Citizen Role in the Smart Contract (mapping)
+Check if the Address is already a Checkpoint - to be defined
+Citizen can add Name and E-mail if he wants - check the Gas use
 
 ## CHECKPOINT CONTRACT:
       
 ### addCheckpoint
 >User Story - Register as a Checkpoint
-Adiciona um Address à role de Checkpoint
-Verifica se o Address já é um Citizen - Confirmar
-Solicita o preenchimento de informações obrigatórias como:
+Adds an Address to the Checkpoints Role in the Smart Contract (mapping)
+Checks inf the Address is already a Citizen - to be defined
+Needs mandatory information to confirm:
           - Name
-          - Location (zip code? address?) - Verificar como o DApp consultará os Checkpoints por Localização
+          - Location (Zip Code) - Chek how the Dapp will return the location infos
           - Segment
-          - Stake - optional
    
       
 ### generateBagHash
 >User Story - Request ZOPO Bags (Checkpoints)
-Gera uma lista de Hashes com um QR Code para cada Bag
-Grava essas hashes numa lista de bags do Contrato (geral)*
-Associa essas Hashes a um Address de um Checkpoint (distribuidor)     
+Generates a list of hashes (1 per bag) with a QR Code
+Register the hashes into a list in the Contract
+Hashes are associated to a Checkpoint
+The same quantity of Bags are minted in Tokens to the Checkpoint wallet
       
 ### checkoutBag
 >User Story - Checkout ZOPO Bag
