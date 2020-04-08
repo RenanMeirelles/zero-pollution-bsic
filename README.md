@@ -164,7 +164,7 @@ Some projects already exist for plastic waste collection in Brazil, such as **[X
 | ------ | ------ |
 | Survey | [Xô Plástico - Brazil](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/Potential%20Deliverables/Survey.md) |
 |Demo Video  | [DOWNLOAD HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/dapp_contracts_demo.mp4) |
-|Pitch Deck  | to do |
+|Pitch Deck  | [DOWNLOAD HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/ZOPO_final_pitch.mp4) |
 |Institutional and Identity | [Mission, Vision, Values, Business Model, Branding/Marketing](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Institutional) |
 
 **Special thanks to the Mentors and the Staff who supported the idea.**
