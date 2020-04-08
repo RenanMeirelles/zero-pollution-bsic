@@ -53,7 +53,7 @@ You can find the **detailed Process** below!
 | ------ | ------ | 
 | **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
 | **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entrepreneurs, establishments, street points and others. This role will be rewarded too.|
-| **Volunteers*** (MMP)| Confirm if there will be a role to help the ecosystem - logistics and other activities. |
+| **Verifiers*** (MMP)| Confirm if there will be a role to help the ecosystem - logistics and other activities. |
 | **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
 | **Sponsors** (MMP)| People and Businesses that are interested in supporting the project by investing some Stake! |
 
