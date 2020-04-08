@@ -1,6 +1,15 @@
 
 # Main Functions of the ZeroPollution Smart Contracts
 
+## To test the Smart Contracts
+>If you want to run the smart contracts, copy the code of each one (Citizen.sol / Checkpoint.sol). 
+Then, go to the https://remix.ethereum.org/
+Create a new file (+) and paste the code.
+Check if your versions are OK. Check if you have Metamask installed in your Browser (extension).
+Check if you have the plugins installed in the Remix - if not, go to the Plugins tab and add the Compiler and Deployer.
+Compile the Code, and Deploy using the Injected Web3 option - you will have to sign the transaction and wait.
+After the transaction is confirmed, you can explore the Contracts functions!
+
 ## CITIZEN CONTRACT:
 
 ### Write Functions
@@ -59,4 +68,5 @@ DApp must lock the Check out function for the Citizen while the check in is not 
 ### checkpointBags
 
 ...
+
 
