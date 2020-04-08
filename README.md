@@ -51,6 +51,9 @@ This is the Macro View of the **Z⬡P⬡** Ecosystem.
 
 If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
+### Tech Architecture
+![ZOPOArchitecture](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93024584_512067459461678_5495134454475128832_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=CxqcPSaoXDwAX_ob5BD&_nc_ht=scontent.fvcp2-1.fna&oh=8354020d0e97c0b43defdca4a8d14fe5&oe=5EB4732B)
+
 ### Storytelling - Use Cases
 **1 - [Register as a Citizen](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/02.%20Register%20as%20a%20Citizen.md)**
 
