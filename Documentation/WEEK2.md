@@ -38,7 +38,7 @@ We can develop a Analytic Smart Contract to measure some KPI's, such as: Number 
 
 ### Define the technical specifications and development roadmap
 **Architecture:**
-[ZOPOArchitecture](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93024584_512067459461678_5495134454475128832_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=CxqcPSaoXDwAX_ob5BD&_nc_ht=scontent.fvcp2-1.fna&oh=8354020d0e97c0b43defdca4a8d14fe5&oe=5EB4732B)
+![ZOPOArchitecture](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93024584_512067459461678_5495134454475128832_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=CxqcPSaoXDwAX_ob5BD&_nc_ht=scontent.fvcp2-1.fna&oh=8354020d0e97c0b43defdca4a8d14fe5&oe=5EB4732B)
 
   - Token Implementation - Creation and publication of a pure ERC20 Token on Testnet;
   - dApp Implementation (MVP) - Development of DApp screens using React, or Angular, or Javascript. - PENDING
