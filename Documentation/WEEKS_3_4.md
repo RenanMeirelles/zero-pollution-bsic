@@ -5,7 +5,7 @@
 
 **Navigable wireframes are available [here](https://www.figma.com/proto/nqrLuYFhbJ0YusEbJvmFCY/ZOPO-DApp?node-id=0%3A1&scaling=min-zoom).**
 
-**Token and Main Contract (Solidity) codes are available [here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token).**
+**Token and Main Contract (Solidity) codes are available [here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code).**
 
 **DApp codes are available [here]().**
 
