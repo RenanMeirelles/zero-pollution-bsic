@@ -32,26 +32,20 @@ The same quantity of Bags are minted in Tokens to the Checkpoint wallet
       
 ### checkoutBag
 >User Story - Checkout ZOPO Bag
-Função é chamada através da leitura do QR Code da Bag pelo Citizen
-Valida a Hash da Bag se existe no contrato*
-Se OK, associa a Hash da Bag ao Address do Citizen
-Se NOK, não faz a transação
-DApp deve travar a função de Checkout para o Citizen enquanto tiver uma "em aberto"
+Function is called trhough the ZOPO bags QR Code scanned (and confirmed)
+Checks if the hash is valid and exists in the SmartContract
+If its OK, associates the bag address to the Citizens address
+If NOK, transaction is not completed
+DApp must lock the checkout funciont to the Citizen while the Check in is not completed
 
 ### checkinBag
 >User Story - Checkin ZOPO Bag
-Função é chamada através da leitura do QR Code da Bag pelo Checkpoint
-Valida a Hash da Bag se existe no contrato* e se está associada ao Citizen
-Se OK, confirma o Checkin e fica pendente para pesagem. Citizen não pode fazer nem Checkout nem Checkin
-Se NOK, não faz a transação
-DApp deve travar a função de Checkout para o Citizen enquanto tiver uma "em aberto"
+Function is called through the bags QR Code scanning by the Checkpoint
+Checks if the hash is valid and exists in the contract, and if the bag is associated with the right Citizen address
+If OK, confirms the Check in and is able to transfer/mint tokens or pay the bounty
+If NOK, transaction is not completed
+DApp must lock the Check out function for the Citizen while the check in is not completed
 
-### mintTokens
->User Story - Wheigh Collected Plastic
-Processo deverá ser feito manualmente no início. Após Checkin confirmado, Checkpoint pesará a Bag com o Conteúdo Plástico.
-Função deverá ser chamada manualmente pelo Checkpoint - "Mint Citizen Tokens"
-Checkpoint deverá informar a quantidade de Tokens a ser emitidos
-Contrato deverá chamar o Contrato do ZOPO Token para fazer o Mint - verificar se Checkpoint terá permissão do Mint
       
 
 ## Read Functions
