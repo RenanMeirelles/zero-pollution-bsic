@@ -28,7 +28,7 @@ If you want to check more problem and solution information, read the full **Gree
 # Z⬡P⬡  Ecosystem Solution
 ### Value Proposition
 >Reduce Plastic Pollution on Earth close to ZERO, through **Citizen's**  engagement, powered by a **decentralized blockchain ecosystem** and an **easy use DApp**.
-We will help to create decentralized, customizable incentivized programs for local plastics cleanup.
+We will help to create **decentralized, customizable incentivized** programs for local plastics cleanup.
 
 ### But, how does it work?
 >A complete plastic **(re)cycle** will be created, where **Citizens** will be able to **collect** and take the plastic waste using our **Biodegradable Plastic Bag** to authorized **Checkpoints**. The full plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded** by the Checkpoints - earning Tokens or Bounties, like products, services, and other stuff. After all, people are driven by rewards. And more: the plastic cycle can be **end-to-end tracked**!
