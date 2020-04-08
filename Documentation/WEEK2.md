@@ -6,17 +6,17 @@
 | ------ | ------ | 
 | **Citizens** (MVP)| Anyone who wants to contribute to the ecosystem/environment by collecting garbage and receiving rewards. |
 | **Checkpoints** (MVP)| Entities that make the focal point of the ecosystem, contributing to its functioning - entrepreneurs, establishments, street points and others. This role will be rewarded too.|
-| **Volunteers*** (MMP)| Confirm if there will be a role to help the ecosystem - logistics and other activities. |
+| **Verifiers*** (MMP)| Confirm if there will be a role to help the ecosystem - logistics and other activities. |
 | **Endpoints** (MMP)| The final destination of the collected garbage - and the beginning - enterprises that are interested in the use of the plastic, reclycling industries, and others. |
 | **Sponsors** (MMP)| People and Businesses that are interested in supporting the project by investing some Stake! |
 
 
 ### What are their pain points?
-  - How to produce the initial material, like bags, scales, banners and other things? ICO?
+  - How to produce the initial material, like bags, banners and other things? Do we need an ICO?
   - How to promote the Ecosystem?
   - How to convince people and entrepreneurs to register as **Checkpoints or/and Endpoints**?
   - How to convince establishments to receive the token as a payment or discount (Endpoints)? What do they receive as a benefit?
-  - How is gonna work the logistics operation, such as material distribution, bags collecting on checkpoints, distribution to other enterprises...
+  - How is gonna work the logistics operation, such as material distribution, bags collecting on checkpoints, distribution to other enterprises?
   - Who will pay the GAS of the Ethereum transactions? Like minting Tokens? Check https://medium.com/portis/sponsor-your-users-gas-fees-with-portis-and-tabookey-s-gas-stations-network-7fd7c8406869
   - Does somebody needs to have control of the token, such as burn when needed, or pause if somebody tries to crack the system?
   - . . .
@@ -33,11 +33,12 @@ Plastic recycling industries can also become partners, as the project increases 
   - The principal risk is the rejection of the enterprises on being Checkpoints or Endpoints.
 
 ### What is the impact of your solution? How will it be measured?
-  - The impact can only be measured after the society engagement. We can develop a Analytic Smart Contract to measure some KPI's, such as: Number of Engaged Citizens, Checkpoints and Endpoints (by Location); Quantity of plastic collected/used by Citizen, Checkpoint and Endpoint; Total trash collected and recycled by region; and a lot of possible Key-Performance-Indicators. We can also use [**TheGraph**](https://thegraph.com/) solution!
+  - The impact can only be measured after the society engagement. But we hope we can use the incentivized mechanism to provide a better society, based on good deeds exchanged with services, crypto, goods, whatever the prizes.
+We can develop a Analytic Smart Contract to measure some KPI's, such as: Number of Engaged Citizens, Checkpoints and Endpoints (by Location); Quantity of plastic collected/used by Citizen, Checkpoint and Endpoint; Total trash collected and recycled by region; and a lot of possible Key-Performance-Indicators. We can also use [**TheGraph**](https://thegraph.com/) solution!
 
 ### Define the technical specifications and development roadmap
   - Token Implementation - Creation and publication of a pure ERC20 Token on Testnet;
-  - dApp Implementation (MVP) - Development of DApp screens using React, or Angular, or Javascript.
+  - dApp Implementation (MVP) - Development of DApp screens using React, or Angular, or Javascript. - PENDING
   - Contracts Implementation (MVP) - Development of the main SmartContract using Solidity and support tools (MetaMask, Truffle/Ganache and more).
   - dApp and Contracts improvements
   
