@@ -170,12 +170,13 @@ Some projects already exist for plastic waste collection in Brazil, such as **[X
 |SmartContracts|[Token, Main SmartContract and more here](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Code/token)|
 | Landing Page| [Published Landing Page (Draft)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html) |
 | GreenPaper | [Google Docs GreenPaper (Draft)](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing) |
+|Google Drive Docs | [Shared Drive](https://drive.google.com/open?id=1AEEp5B11gKYtYxjYqAHgYYd8ooIJAyLu) |
 
 ## Potential Deliverables
 | Deliverables | Link |
 | ------ | ------ |
 | Survey | [Xô Plástico - Brazil](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Institutional/Potential%20Deliverables/Survey.md) |
-| Video  | to do |
+|Demo Video  | [DOWNLOAD HERE](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/dapp_contracts_demo.mp4) |
 |Pitch Deck  | to do |
 |Institutional and Identity | [Mission, Vision, Values, Business Model, Branding/Marketing](https://github.com/RenanMeirelles/zero-pollution-bsic/tree/master/Institutional) |
 
