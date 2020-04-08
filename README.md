@@ -14,7 +14,7 @@ If you want to follow the project progress, please click **[here](https://trello
 
 If you want to see our **Landing Page**, click **[here](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/landing-page-zopo-bsic/main.html)**!
 
-If you want to read the full **GreenPaper**, click **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
+If you want to check more problem and solution information, read the full **GreenPaper** **[here](https://docs.google.com/document/d/1YK_Hvu25pj_SKmALsvnHTEyqHkR2yPFKLgjKvxs97co/edit?usp=sharing)**!
 
 **Our team is composed by:**
 | Name | Gitcoin ID |e-mail| Skills |
@@ -25,23 +25,10 @@ If you want to read the full **GreenPaper**, click **[here](https://docs.google.
 # Plastic Pollution - a HUGE PROBLEM to be solved
 **Plastic pollution** has reached almost inestimable levels in the whole world - seas, rivers, streets and lots of public places are affected by. This pollution can be caused by several factors of origin, such as lack of education of the population, irregular disposal of large producers, lack of investment in selective collection, among others.  The fact is, we need to find **a way to stop it**! 
 
-**Some important data - [Our World in Data](https://ourworldindata.org/plastic-pollution):**
-- From 1950 to 2015 it is estimated that **7.8 billion tons** of plastic were produced in the world.
-- Estimated share of global plastic waste by disposal method (2015): **19.5% is Recycled / 25.5% is Incinerated / 55% is Discarded**.
-- Per capita rate of plastic waste generation by Country, measured in kilograms per person per day: **USA 0.34kg / Germany 0.48kg / Poland 0.1kg / Denmark 0.05kg**
-- Total waste of Plastic by Country in 2010 (tonnes): **USA 37mi / China 59mi / Brazil 11mi**
-
-## Specific Problem - Brazilian Pollution
-Brazil can be considered a good case to be analyzed. It is a large country, with high economic, cultural and social potential, but we can still find a lot of garbage and pollution with plastic spread all over the place - both in poorer places and in upscale neighborhoods.  A lot of this is due to a lack of education and also a lack of investment in selective collection and recycling. The Government is unable to solve the problem alone. The solution should not be just to "remedy", but to tackle the root of the problem - but that is Government's responsibility.
-
-**Brazilian Data - check more [here](https://g1.globo.com/natureza/noticia/2019/03/04/brasil-e-o-4o-maior-produtor-de-lixo-plastico-do-mundo-e-recicla-apenas-1.ghtml)**
-- Brazil is the **4th largest producer of plastic waste** (11.3mi tons/year) in the world, behind the United States, China and India;
-- Brazil **recycles only 1%** of the plastic waste produced (145k tons);
-- Each Brazilian citizen produces **1 kg of plastic waste per week**;
-
 # Z⬡P⬡  Ecosystem Solution
 ### Value Proposition
 >Reduce Plastic Pollution on Earth close to ZERO, through **Citizen's**  engagement, powered by a **decentralized blockchain ecosystem** and an **easy use DApp**.
+We will help to create decentralized, customizable incentivized programs for local plastics cleanup.
 
 ### But, how does it work?
 >A complete plastic **(re)cycle** will be created, where **Citizens** will be able to **collect** and take the plastic waste using our **Biodegradable Plastic Bag** to authorized **Checkpoints**. The full plastic bags will be sent to **Endpoints**, which will generate new bags and other possible destinations. Best of all, everyone will be **rewarded** by the Checkpoints - earning Tokens or Bounties, like products, services, and other stuff. After all, people are driven by rewards. And more: the plastic cycle can be **end-to-end tracked**!
