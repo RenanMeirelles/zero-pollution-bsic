@@ -7,7 +7,7 @@ Created to the organize the BSIC Hackathon deliverables - Plastics and Pollution
 [![BSIC](https://10iyd315iql1cp7mg1jed84g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Blockchain_Social_Impact.jpg)](https://blockchainforsocialimpact.com/)
 
 # Welcome to the **Z**er**⬡** **P⬡**llution Ecosystem.
-![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=4vaa9zBh2AMAX-1Ehlv&_nc_ht=scontent.fvcp2-1.fna&oh=7eb732c87cc6e4a0264fd68987dfc330&oe=5E923F2A)
+![ZOPO_LOGO](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/89068046_176632217119523_7264249896222326784_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=if2JGk5k_MkAX9wmSya&_nc_ht=scontent.fvcp2-1.fna&oh=c5c18345ebd79c96dab47c12ec264f30&oe=5EC5A9AA)
 ## Z⬡P⬡ - Connecting Earth and People through technology.
 
 If you want to follow the project progress, please click **[here](https://trello.com/b/k5yYyvj2/bsci-hackathon-zero-pollution)**!
