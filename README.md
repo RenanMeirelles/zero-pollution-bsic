@@ -47,12 +47,12 @@ You can find the **detailed Process** below!
 ### Business Processes
 This is the Macro View of the **Z⬡P⬡** Ecosystem. 
 
-[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/91776625_547429862566533_2382792227404382208_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=axckYNFNKIAAX8F7xrJ&_nc_ht=scontent.fvcp2-1.fna&oh=bca530665f8e6e91657eef9cbf0b214e&oe=5EA8428D)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
+[![MacroDiagram](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/91776625_547429862566533_2382792227404382208_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=3oCbLeVXMYUAX9nTMbe&_nc_ht=scontent.fvcp2-1.fna&oh=000fa4d663b3dd83f37322f1a356a1fc&oe=5F46768D)](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)
 
 If you want to see the full **Business Process Diagrams (BPMN)** and navigate through, you can check it [**HERE**](https://renanmeirelles.github.io/Blockchain%20Models/BSIC_Consensys_Hackathon_Plastics_Pollution/Business%20Process/index.html#list)!
 
 ### Tech Architecture
-![ZOPOArchitecture](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93024584_512067459461678_5495134454475128832_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=CxqcPSaoXDwAX_ob5BD&_nc_ht=scontent.fvcp2-1.fna&oh=8354020d0e97c0b43defdca4a8d14fe5&oe=5EB4732B)
+![ZOPOArchitecture](https://scontent.fvcp2-1.fna.fbcdn.net/v/t1.15752-9/93024584_512067459461678_5495134454475128832_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=A7bo_m3pa5sAX8H8hf6&_nc_ht=scontent.fvcp2-1.fna&oh=233c1d2486bf0091e1c5468db5d4e148&oe=5F42D52B)
 
 ### Storytelling - Use Cases
 **1 - [Register as a Citizen](https://github.com/RenanMeirelles/zero-pollution-bsic/blob/master/Documentation/User%20Stories%20(Specification)/02.%20Register%20as%20a%20Citizen.md)**
